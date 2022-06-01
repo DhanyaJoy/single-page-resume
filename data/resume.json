@@ -14,11 +14,7 @@
             "countryCode": "US",
             "region": "New Jersey"
         },
-        "profiles": [{
-                "network": "twitter",
-                "username": "joymon",
-                "url": "https://twitter.com/joymon"
-            },
+        "profiles": [
             {
                 "network": "github",
                 "username": "joymon",
