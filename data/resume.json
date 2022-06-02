@@ -146,6 +146,18 @@
                 "Distributed computing", "SOLID principles", "GoF patterns"
             ]
         },
+               
+        {
+            "name": "Web Development",
+            "level": "80%",
+            "keywords": [
+                "HTML",
+                "CSS",
+                "JavaScript",
+                "Angular",
+                "Hugo"
+            ]
+        },
         {
             "name": "Containers",
             "level": "10%",
@@ -157,20 +169,9 @@
             "keywords": ["IaaS","Functions","AppService", "Storage"]
         },
         {
-            "name": "Tesing",
+            "name": "Testing",
             "level": "60%",
             "keywords": ["Manual","Automated Unit Testing","Functional Testing","Test Case Preparation"]
-        },
-        {
-            "name": "Web Development",
-            "level": "80%",
-            "keywords": [
-                "HTML",
-                "CSS",
-                "JavaScript",
-                "Angular",
-                "Hugo"
-            ]
         }
     ],
     "languages": [{
