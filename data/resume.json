@@ -140,38 +140,35 @@
     }],
     "publications": [],
     "skills": [{
-            "name": "Architecture",
+            "name": "Programing",
             "level": "95%",
-            "keywords": [
-                "Microservice", "Serverless", "Distributed computing", "SOA", "Messaging", "SOLID principles", "GoF patterns"
+            "keywords": [".Net 6", "C#", "ASP.Net WebAPI", "MVC", "Linq",
+                "Distributed computing", "SOLID principles", "GoF patterns"
             ]
         },
         {
             "name": "Containers",
-            "level": "80%",
-            "keywords": ["Docker", "Kubernetes", "HELM", "AKS", "ACR"]
+            "level": "10%",
+            "keywords": ["Docker", "Kubernetes"]
         },
         {
-            "name": "Azure",
-            "level": "80%",
-            "keywords": ["IaaS", "ServiceFabric", "Functions", "AKS", "ACR", "AppService", "Storage", "ServiceBus", "ADF", "ADB"]
+            "name": "Azure cloud",
+            "level": "30%",
+            "keywords": ["IaaS","Functions","AppService", "Storage"]
         },
         {
-            "name": ".Net",
-            "level": "95%",
-            "keywords": [".Net 6", "C#", "ASP.Net WebAPI", "MVC", "Linq", "WCF", "WPF"]
+            "name": "Tesing",
+            "level": "60%",
+            "keywords": ["Manual","Automated Unit Testing","Functional Testing","Test Case Preparation"]
         },
         {
             "name": "Web Development",
-            "level": "90%",
+            "level": "80%",
             "keywords": [
                 "HTML",
                 "CSS",
                 "JavaScript",
                 "Angular",
-                "Bootstrap",
-                "jQuery",
-                "Angular UI",
                 "Hugo"
             ]
         }
@@ -186,10 +183,6 @@
         },
         {
             "language": "Hindi",
-            "fluency": "Moderate"
-        },
-        {
-            "language": "Tamil",
             "fluency": "Moderate"
         }
     ],
