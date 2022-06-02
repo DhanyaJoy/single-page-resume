@@ -1,8 +1,8 @@
 # Page settings
 
-baseurl = "https://joymon.github.io/single-page-resume/"
+baseurl = "https://dhanyajoy.github.io/single-page-resume/"
 languageCode = "en-us"
-title = "Joy George Kunjikkuru - Single page resume"
+title = "Dhanya - Single page resume"
 theme = "hugo-orbit-theme"
 googleAnalytics = "UA-XXXXXXX-Y"
 
@@ -29,8 +29,8 @@ disable404 = true
 
     # Profile section
     [params.profile]
-        name = "Joy George Kunjikkuru"
-        tagline = "Solutions Architect"
+        name = "Dhanya Simon"
+        tagline = "Software Engineer"
         avatar = "profile.png"
 
     # Contact section
