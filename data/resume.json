@@ -50,18 +50,6 @@
             "courses": [
                 "Bachelor's in Computer Science and Engineering"
             ]
-        },
-        {
-            "institution": "Technical Education Kerala",
-            "url": "https://institution.com/",
-            "area": "Information Systems Management",
-            "studyType": "Masters",
-            "startDate": "1999-01-01",
-            "endDate": "2002-01-01",
-            "score": "4.0",
-            "courses": [
-                "Diploma in Computer Science"
-            ]
         }
     ],
     "work": [{
