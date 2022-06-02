@@ -28,19 +28,19 @@
         ]
     },
     "education": [{
-            "institution": "Bhartiar University",
+            "institution": "Anna University",
             "url": "https://institution.com/",
-            "area": "Information Systems Management",
+            "area": "Computer Science and Engineering",
             "studyType": "Masters",
-            "startDate": "2007-01-01",
-            "endDate": "2009-01-01",
-            "score": "4.0",
+            "startDate": "2010-01-09",
+            "endDate": "2012-01-04",
+            "score": "8.46 CGPA",
             "courses": [
-                "MBA in Information Systems Management"
+                "Master's in Computer Science and Engineering"
             ]
         },
         {
-            "institution": "Anna University",
+            "institution": "",
             "url": "https://institution.com/",
             "area": "Computer Scient",
             "studyType": "Masters",
