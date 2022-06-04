@@ -64,20 +64,12 @@
             ]
         },
         {
-            "name": "ILM College of Engineering and Technology, India",
+            "name": "ILM College of Engineering and Technology, Kerala, India",
             "position": " System Administrator, Assistant Professor",
             "url": "",
             "startDate": "2012-12-17",
             "endDate": "2014-12-17",
-            "summary": "As System Administrator, I was responsible for maintaining the college website. As an Assistant Professor,my reponsibility was preparing study materials, delivering lectures, assessing student performance and also guiding students on Computer Programming lab experiments as well as academic projects."
-        },
-        {
-            "name": "Orion Systems Integrators, New Jersey",
-            "position": "Application Architect",
-            "url": "",
-            "startDate": "2014-05-29",
-            "endDate": "2016-05-28",
-            "summary": "I was responsible to architect based on requirements from stakeholders, non-functional requirements, and transfer to development teams. Another responsibilities include service contracts design, review code against architecture and coding critical components and PoCs."
+            "summary": "As System Administrator, I was responsible for maintaining the college website. As an Assistant Professor, my reponsibility was preparing study materials, delivering lectures, assessing student performance and also guiding students on Computer Programming lab experiments as well as academic projects."
         }
     ],
     "volunteer": [{
