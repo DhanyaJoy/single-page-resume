@@ -65,11 +65,11 @@
         },
         {
             "name": "ILM College of Engineering and Technology, Kerala, India",
-            "position": " System Administrator, Assistant Professor",
+            "position": " Web Developer, System Administrator, Assistant Professor",
             "url": "",
             "startDate": "2012-12-17",
             "endDate": "2014-12-17",
-            "summary": "As System Administrator, I was responsible for maintaining the college website. As an Assistant Professor, my reponsibility was preparing study materials, delivering lectures, assessing student performance and also guiding students on Computer Programming lab experiments as well as academic projects."
+            "summary": "As System Administrator, I was responsible for developing and maintaining the college website using ASP.Net. As an Assistant Professor, my reponsibility was preparing study materials, delivering lectures, assessing student performance and also guiding students on Computer Programming lab experiments as well as academic projects."
         }
     ],
     "volunteer": [{
