@@ -5,8 +5,8 @@
         "image": "",
         "email": "simondhanya@gmail.com",
         "phone": "7473342692",
-        "url": "https://dhanyajoy.github.io",
-        "summary": "Passionate Software engineer with a strong desire to tackle challenges using a variety of techniques and technologies. \n\n I have **3+ years** of software engineering expertise, primarily in .Net, ASP.Net, Web development, C#, JavaScript and SQL.",
+        "url": "",
+        "summary": "Passionate Software engineer with a strong desire to tackle challenges using a variety of techniques and technologies. Equipped with a diverse and promosing skill set. \n\n I have **3+ years** of software engineering expertise, proficient in an assortment of technologies including .Net, ASP.Net, Web development, C#, Java, HTML, CSS, JavaScript and SQL. Able to effectively self-manage during independent projects as well as collaborate in a team setting.",
         "location": {
             "address": "Wayne",
             "postalCode": "NJ 07470",
@@ -17,7 +17,7 @@
         "profiles": [
             {
                 "network": "github",
-                "username": "Dhanya Simon",
+                "username": "GitHub",
                 "url": "https://github.com/DhanyaJoy"
             },
             {
@@ -53,10 +53,10 @@
         }
     ],
     "work": [{
-            "name": "Orion Business Innovations, New Jersey",
-            "position": "Solutions Architect",
-            "url": "https://orioninc.com",
-            "startDate": "2017-03-01",
+            "name": "Remote",
+            "position": "Freelancer",
+            "url": "",
+            "startDate": "2015-11-10",
             "endDate": "",
             "summary": "Responsible to work with client stakeholders to shape up the vision of the platform and products, work with other solution architects to define the architecture. Transfer the solution to the development teams, and promote innovation across the portfolio.",
             "highlights": [
@@ -64,12 +64,20 @@
             ]
         },
         {
+            "name": "uTest.com",
+            "position": "Software Tester",
+            "url": "",
+            "startDate": "2019-12-17",
+            "endDate": "",
+            "summary": "As System Administrator, I was responsible for developing and maintaining the college website using ASP.Net. As an Assistant Professor, my reponsibility was preparing study materials, delivering lectures, assessing student performance and also guiding students on Computer Programming lab experiments as well as academic projects."
+        },
+        {
             "name": "ILM College of Engineering and Technology, Kerala, India",
-            "position": " Web Developer, System Administrator, Assistant Professor",
+            "position": " Web Developer, Assistant Professor",
             "url": "",
             "startDate": "2012-12-17",
             "endDate": "2014-12-17",
-            "summary": "As System Administrator, I was responsible for developing and maintaining the college website using ASP.Net. As an Assistant Professor, my reponsibility was preparing study materials, delivering lectures, assessing student performance and also guiding students on Computer Programming lab experiments as well as academic projects."
+            "summary": "As Web Developer, I was responsible for developing and maintaining the college website using ASP.Net. As an Assistant Professor, my reponsibility was preparing study materials, delivering lectures, assessing student performance and also guiding students on Computer Programming lab experiments as well as academic projects."
         }
     ],
     "volunteer": [{
@@ -98,7 +106,7 @@
     "skills": [{
             "name": "Programing",
             "level": "95%",
-            "keywords": [".Net 6", "C#", "ASP.Net WebAPI", "MVC", "Linq",
+            "keywords": [".Net 6", "C#", "ASP.Net WebAPI","Java", "MVC", "Linq",
                 "Distributed computing", "SOLID principles", "GoF patterns"
             ]
         },

@@ -1,14 +1,14 @@
 <div class="profile-container">
     <img class="profile img-circle" src="{{ .Site.BaseURL }}assets/images/{{ .Site.Params.profile.avatar }}" alt="" height="100px" width="100px" />
     <h1 class="name">{{ .Site.Params.profile.name }}</h1>
-    <div class="tagline">{{ .Site.Params.profile.tagline }}</div>
+    <div class="tagline">{{ .Site.Params.profile.tagline }}</div><br/>
 
     <i class="fa fa-phone"></i>
     <a href="tel:{{ .Site.Data.resume.basics.phone }}">{{ .Site.Data.resume.basics.phone }}</a>
     <br/>
     <i class="fa fa-envelope"></i> <a href="mailto:{{ .Site.Data.resume.basics.email }}">{{ .Site.Data.resume.basics.email }}</a>
-    <br/>
+    <!--<br/>
     <i class="fa fa-globe"></i>
-    <a href="{{ .Site.Data.resume.basics.url }}">{{ .Site.Data.resume.basics.url }}</a>
+    <a href="{{ .Site.Data.resume.basics.url }}">{{ .Site.Data.resume.basics.url }}</a>*/-->
 </div>
 <!--//profile-container-->
