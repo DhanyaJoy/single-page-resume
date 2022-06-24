@@ -58,7 +58,7 @@
             "url": "",
             "startDate": "2015-11-10",
             "endDate": "",
-            "summary": "Worked with various clients across various websites. Helped to achieve a consistent look and visual theme across various websites by promoting uniform fonts, formatting, images and layout. Planned, developed, tested, deployed and maintained web applications. I could work well independently as well as in a team setting. ",
+            "summary": "Worked with multiple clients across various projects. Helped to achieve a consistent look and visual theme across various websites by promoting uniform fonts, formatting, images and layout. Along with that  I have helped to debug various issues in logic, security, deployment and performance. Helped various teams to achieve higher code coverage by writting unit test cases. ",
             "highlights": [
                 ""
             ]
@@ -96,8 +96,10 @@
     "skills": [{
             "name": "Programing",
             "level": "95%",
-            "keywords": [".Net 6", "C#", "ASP.Net WebAPI","Java", "MVC", "Linq",
-                "Distributed computing", "SOLID principles", "GoF patterns"
+            "keywords": [".Net 6", "C#", 
+                "ASP.Net",
+                "Java",
+                "Distributed computing"
             ]
         },
                
@@ -108,19 +110,8 @@
                 "HTML",
                 "CSS",
                 "JavaScript",
-                "Angular",
                 "Hugo"
             ]
-        },
-        {
-            "name": "Containers",
-            "level": "10%",
-            "keywords": ["Docker", "Kubernetes"]
-        },
-        {
-            "name": "Azure cloud",
-            "level": "30%",
-            "keywords": ["IaaS","Functions","AppService", "Storage"]
         },
         {
             "name": "Testing",
