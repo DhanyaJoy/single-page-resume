@@ -6,7 +6,7 @@
         "email": "simondhanya@gmail.com",
         "phone": "7473342692",
         "url": "",
-        "summary": "Passionate Software engineer with a strong desire to tackle challenges using a variety of techniques and technologies. Equipped with a diverse and promosing skill set. \n\n I have **3+ years** of software engineering expertise, proficient in an assortment of technologies including .Net, ASP.Net, Web development, C#, Java, HTML, CSS, JavaScript and SQL. Able to effectively self-manage during independent projects as well as collaborate in a team setting.",
+        "summary": "Passionate Software engineer with a strong desire to tackle challenges using a variety of techniques and technologies. A logical and creative thinker who enjoys learning new languages, frameworks and technologies in general. Equipped with a diverse and promosing skill set. The satisfaction of solving problems is what drives me to be a bettter programmer. \n\n I have **3+ years** of software engineering expertise, proficient in an assortment of technologies including .Net, ASP.Net, Web development, C#, Java, HTML, CSS, JavaScript and SQL. Able to effectively self-manage during independent projects as well as collaborate in a team setting.",
         "location": {
             "address": "Wayne",
             "postalCode": "NJ 07470",
@@ -17,12 +17,12 @@
         "profiles": [
             {
                 "network": "github",
-                "username": "GitHub",
+                "username": "DhanyaJoy",
                 "url": "https://github.com/DhanyaJoy"
             },
             {
                 "network": "linkedin",
-                "username": "Dhanya Simon",
+                "username": "dhanya-simon",
                 "url": "https://www.linkedin.com/in/dhanya-simon-265a6922/"
             }
         ]
@@ -54,11 +54,11 @@
     ],
     "work": [{
             "name": "Remote",
-            "position": "Freelancer",
+            "position": "Freelance Web Developer",
             "url": "",
             "startDate": "2015-11-10",
             "endDate": "",
-            "summary": "Responsible to work with client stakeholders to shape up the vision of the platform and products, work with other solution architects to define the architecture. Transfer the solution to the development teams, and promote innovation across the portfolio.",
+            "summary": "Worked with various clients across various websites. Helped to achieve a consistent look and visual theme across various websites by promoting uniform fonts, formatting, images and layout. Planned, developed, tested, deployed and maintained web applications. I could work well independently as well as in a team setting. ",
             "highlights": [
                 ""
             ]
@@ -69,7 +69,7 @@
             "url": "",
             "startDate": "2019-12-17",
             "endDate": "",
-            "summary": "As System Administrator, I was responsible for developing and maintaining the college website using ASP.Net. As an Assistant Professor, my reponsibility was preparing study materials, delivering lectures, assessing student performance and also guiding students on Computer Programming lab experiments as well as academic projects."
+            "summary": "As a uTester, successfully identified, diagnosed and reported various bugs with detailed bug reports both exploratory and using test cases, including functional bugs like broken links, visual bugs and formatting issues. "
         },
         {
             "name": "ILM College of Engineering and Technology, Kerala, India",
@@ -91,17 +91,7 @@
             "Awarded 'Volunteer of the Month'"
         ]
     }],
-    "awards": [{
-        "title": "AZ-303 - Microsoft Azure Architect Technologies",
-        "date": "2014-11-01",
-        "awarder": "Company",
-        "summary": "There is no spoon."
-    }, {
-        "title": "MCTS",
-        "date": "2014-11-01",
-        "awarder": "Company",
-        "summary": "There is no spoon."
-    }],
+    "awards": [],
     "publications": [],
     "skills": [{
             "name": "Programing",
