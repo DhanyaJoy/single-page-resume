@@ -115,6 +115,11 @@
             ]
         },
         {
+            "name": "Data Management",
+            "level": "60%",
+            "keywords": ["SQL","Microsoft SQL Server"]
+        },
+        {
             "name": "Testing",
             "level": "60%",
             "keywords": ["Manual","Automated Unit Testing","Functional Testing","Test Case Preparation"]
