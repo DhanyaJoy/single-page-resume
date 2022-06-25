@@ -96,8 +96,8 @@
     "skills": [{
             "name": "Programing",
             "level": "95%",
-            "keywords": [".Net 6", "C#", 
-                "ASP.Net",
+            "keywords": [".Net 6", "C#", "Linq",
+                
                 "Java",
                 "Distributed computing"
             ]
@@ -109,7 +109,8 @@
             "keywords": [
                 "HTML",
                 "CSS",
-                "JavaScript",
+                "JavaScript","JSON",
+                "ASP.Net", "static site generator",
                 "Hugo"
             ]
         },
