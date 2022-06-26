@@ -100,7 +100,7 @@
                 
                 "Java",
                 "Distributed computing"
-            ]
+            ] 
         },
                
         {
@@ -118,6 +118,11 @@
             "name": "Data Management",
             "level": "60%",
             "keywords": ["SQL","Microsoft SQL Server"]
+        },
+        {
+            "name": "DevOps",
+            "level": "30%",
+            "keywords": ["GitHub Actions","YAML"]
         },
         {
             "name": "Testing",
