@@ -58,7 +58,7 @@
             "url": "",
             "startDate": "2015-11-10",
             "endDate": "",
-            "summary": "Worked with multiple clients across various projects. Helped to achieve a consistent look and visual theme across various websites by promoting uniform fonts, formatting, images and layout. Along with that  I have helped to debug various issues in logic, security, deployment and performance. Helped various teams to achieve higher code coverage by writting unit test cases. ",
+            "summary": "Worked with multiple clients across various projects. \n - Helped to achieve a consistent look and visual theme across various websites by promoting uniform fonts, formatting, images and layout.\n- Helped to debug various issues in logic, security, deployment and performance. \n- Helped various teams to achieve higher code coverage by writting unit test cases. ",
             "highlights": [
                 ""
             ]
@@ -77,7 +77,7 @@
             "url": "",
             "startDate": "2012-12-17",
             "endDate": "2014-12-17",
-            "summary": "As Web Developer, I was responsible for developing and maintaining the college website using ASP.Net. As an Assistant Professor, my reponsibility was preparing study materials, delivering lectures, assessing student performance and also guiding students on Computer Programming lab experiments as well as academic projects."
+            "summary": "As Web Developer, I was responsible for \n- developing and maintaining the college website using ASP.Net. \n\n As an Assistant Professor, my reponsibility was \n- preparing study materials \n-  delivering lectures, assessing student performance and also guiding students on Computer Programming lab experiments as well as academic projects."
         }
     ],
     "volunteer": [{
@@ -162,8 +162,8 @@
         "reference": "Reference…"
     }],
     "projects": [{
-        "name": "Dotnet-Helpers",
-        "description": "Utilities and helper classes for faster .Net development by writing less code.",
+        "name": "single-page-resume",
+        "description": "Single page resume for myself using Static Site Generator, Hugo.",
         "highlights": [
             "Won award at AIHacks 2016"
         ],
@@ -178,39 +178,6 @@
         ],
         "entity": "Entity",
         "type": "application"
-    }, {
-        "name": "Orchestration",
-        "description": ".Net library to orchestrate operations and commands. Helps to follow Single Responsibility Pattern.",
-        "highlights": [
-            "Won award at AIHacks 2016"
-        ],
-        "keywords": [
-            "HTML"
-        ],
-        "startDate": "2019-01-01",
-        "endDate": "2021-01-01",
-        "url": "https://github.com/joymon/Orchestration",
-        "roles": [
-            "Team Lead"
-        ],
-        "entity": "Entity",
-        "type": "application"
-    }, {
-        "name": "Karel",
-        "description": "Javascript based Karel simulator to learn programming easily. It simplifies programming to a level of just controlling a robot using a fixed set of instructions.",
-        "highlights": [
-            "Won award at AIHacks 2016"
-        ],
-        "keywords": [
-            "HTML"
-        ],
-        "startDate": "2019-01-01",
-        "endDate": "2021-01-01",
-        "url": "https://github.com/joymon/Karel",
-        "roles": [
-            "Team Lead"
-        ],
-        "entity": "Entity",
-        "type": "application"
-    }]
+    }
+]
 }
