@@ -94,13 +94,12 @@
     "awards": [],
     "publications": [],
     "skills": [{
-            "name": "Programing",
+            "name": "Programming",
             "level": "95%",
             "keywords": [".Net 6", "C#", "Linq",
                 
                 "Java",
-                "Distributed computing"
-            ] 
+                "Distributed computing","Visual Studio", "VS Code"            ] 
         },
                
         {
@@ -109,7 +108,7 @@
             "keywords": [
                 "HTML",
                 "CSS",
-                "JavaScript","JSON",
+                "JavaScript",
                 "ASP.Net", "static site generator",
                 "Hugo"
             ]
@@ -117,7 +116,7 @@
         {
             "name": "Data Management",
             "level": "60%",
-            "keywords": ["SQL","Microsoft SQL Server"]
+            "keywords": ["JSON","SQL","Microsoft SQL Server","CSV"]
         },
         {
             "name": "DevOps",
